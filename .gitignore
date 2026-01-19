@@ -1,0 +1,66 @@
+# =========================
+# Unity generated folders
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Asset meta data should be kept
+# but these folders must not
+!.gitignore
+
+# =========================
+# Visual Studio / Rider
+# =========================
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# =========================
+# Unity crash & build reports
+# =========================
+sysinfo.txt
+*.stackdump
+
+# =========================
+# Addressables & Cache
+# =========================
+[Aa]ssets/AddressableAssetsData/*/*.bin*
+[Aa]ssets/AddressableAssetsData/*/*.json
+[Aa]ssets/AddressableAssetsData/*/*.xml
+
+# =========================
+# IL2CPP
+# =========================
+Il2CppOutputProject/
+
+# =========================
+# Backup & temp files
+# =========================
+*.tmp
+*.bak
+*.swp
