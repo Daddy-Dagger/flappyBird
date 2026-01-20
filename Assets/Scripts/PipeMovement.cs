@@ -11,7 +11,7 @@ using UnityEngine.XR.WindowsMR.Input;
 
 public class PipeMovement : MonoBehaviour
 {
-    [SerializeField] private float movespeed = 1.5f;
+    [SerializeField] private float movespeed = 1.2f;
     private float outofbounds = -9f;
     private float minY = -0.53f;
     private float maxY = 1.49f;

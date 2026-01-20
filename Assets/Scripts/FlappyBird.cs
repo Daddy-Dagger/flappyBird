@@ -12,7 +12,7 @@ public class FlappyBird : MonoBehaviour
 
     private bool jumpRequest;
 
-    public float jumpForce = 3.7f;
+    public float jumpForce = 3.3f;
 
     void Awake()
     {
@@ -55,5 +55,3 @@ public class FlappyBird : MonoBehaviour
         }
     }
 }
-//potty_sigh_was_here_pind_zebra
-//dagger here

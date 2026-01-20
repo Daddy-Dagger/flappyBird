@@ -6,7 +6,10 @@ public class GameManager : MonoBehaviour
     private void Start()
     {
         FlappyBird.Instance.onpipetrigger += FlappyBird_onpipetrigger;
+        
     }
+
+  
 
     private void FlappyBird_onpipetrigger(object sender, System.EventArgs e)
     {
